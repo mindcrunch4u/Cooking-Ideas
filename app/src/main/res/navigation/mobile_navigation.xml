@@ -3,15 +3,15 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/mobile_navigation"
-    app:startDestination="@+id/nav_home">
+    app:startDestination="@+id/nav_cook">
 
     <fragment
-        android:id="@+id/nav_home"
-        android:name="com.bob.info.ui.home.HomeFragment"
-        android:label="@string/menu_home"
-        tools:layout="@layout/fragment_home" />
+        android:id="@+id/nav_cook"
+        android:name="com.bob.info.ui.cook.CookFragment"
+        android:label="@string/menu_cook"
+        tools:layout="@layout/fragment_cook" />
 
-    <fragment
+    <!--fragment
         android:id="@+id/nav_gallery"
         android:name="com.bob.info.ui.gallery.GalleryFragment"
         android:label="@string/menu_gallery"
@@ -21,5 +21,5 @@
         android:id="@+id/nav_slideshow"
         android:name="com.bob.info.ui.slideshow.SlideshowFragment"
         android:label="@string/menu_slideshow"
-        tools:layout="@layout/fragment_slideshow" />
+        tools:layout="@layout/fragment_slideshow" /-->
 </navigation>
