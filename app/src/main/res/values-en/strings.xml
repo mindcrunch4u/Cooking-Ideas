@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">info</string>
+    <string name="menu_cook">Cook</string>
+    <string name="fragment_cook_title">What should I cook today</string>
+    <string name="fragment_cook_array_vegetable">eggplant, green beans, lettuce, choi sum, bell pepper, potato, chinese cabbage, baby bok choy, spinach, mushrooms, cucumber, luffa gourd, pumpkin, bitter melon, napa cabbage, tomato, amaranth greens, chives, bean sprouts, snow peas, wood ear mushrooms, carrot, shanghai bok choy, garlic chives, celery</string>
+    <string name="fragment_cook_array_misc">tofu skin, dried tofu, dried shrimp, chicken egg, century egg, tofu</string>
+    <string name="fragment_cook_array_seasoning">onion, corn, scallion (or green onion), shallot, green onion leaves</string>
+    <string name="fragment_cook_array_method">black pepper, star anise, stir-fry with sugar and salt, garlic flavor, oyster sauce, cold salad or cold-tossed, boiled in water/broth, steamed, fermented bean paste, curry</string>
+    <string name="fragment_cook_array_shape">strip, shredded, dice, slice, smaller chunk, finely chopped, ball, patty</string>
+    <string name="fragment_cook_array_meat">egg, pork belly, pork, ribs, pork liver, wings, drumsticks, chicken thigh, chicken breast, steak, beef shank, beef brisket, hot pot beef slices, shrimp, scallop</string>
+    <string name="fragment_cook_array_carb">rice, instant noodles, pasta, millet porridge, porridge</string>
+    <string name="fragment_cook_type_none">none</string>
+    <string name="util_copied_text">copied</string>
+    <string name="fragment_cook_type_vegetable">vegetable</string>
+    <string name="fragment_cook_type_misc">misc</string>
+    <string name="fragment_cook_type_seasoning">seasoning</string>
+    <string name="fragment_cook_type_method">method</string>
+    <string name="fragment_cook_type_shape">shape</string>
+    <string name="fragment_cook_type_meat">meat</string>
+    <string name="fragment_cook_type_carb">carbs</string>
+    <string name="fragment_cook_type_unknown">unknown</string>
+</resources>

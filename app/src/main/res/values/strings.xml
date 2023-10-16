@@ -10,4 +10,28 @@
     <string name="menu_cook">煮</string>
     <string name="menu_gallery">Gallery</string>
     <string name="menu_slideshow">Slideshow</string>
+
+    <string name="fragment_cook_title">今天煮什么</string>
+    <string name="fragment_cook_array_vegetable">茄子,豆角,生菜,菜心,甜椒,土豆,白菜,娃娃菜,菠菜,菌菇,黄瓜,丝瓜,南瓜,苦瓜,包菜,番茄,苋菜,韭菜,豆芽,荷兰豆,木耳,红萝卜,上海青,蒜苔,芹菜,菜心</string>
+    <string name="fragment_cook_array_misc">豆皮,豆干,虾皮,鸡蛋,皮蛋,豆腐</string>
+    <string name="fragment_cook_array_seasoning">洋葱,玉米,大葱,小葱,葱叶</string>
+    <string name="fragment_cook_array_method">黑椒,大料,糖盐炒,蒜香,蚝酱油,凉拌,水煮,蒸,豆瓣酱,咖喱</string>
+    <string name="fragment_cook_array_shape">条,丝,粒,片,块,沫,球,饼</string>
+    <string name="fragment_cook_array_meat">鸡蛋,五花肉,猪肉,排骨,猪肝,鸡翅,鸡腿,鸡腿肉,鸡胸,牛排,牛腱,牛腩,肥牛片,虾,扇贝</string>
+    <string name="fragment_cook_array_carb">米饭,面饼,意面,小米粥,粥</string>
+
+    <string name="fragment_cook_type_none">无</string>
+    <string name="fragment_cook_type_vegetable">蔬菜</string>
+    <string name="fragment_cook_type_misc">其他</string>
+    <string name="fragment_cook_type_seasoning">调味</string>
+    <string name="fragment_cook_type_method">做法</string>
+    <string name="fragment_cook_type_shape">形状</string>
+    <string name="fragment_cook_type_meat">肉类</string>
+    <string name="fragment_cook_type_carb">碳水</string>
+    <string name="fragment_cook_type_unknown">未知</string>
+
+    <string name="text_comma">，</string>
+
+
+    <string name="util_copied_text">已复制</string>
 </resources>
